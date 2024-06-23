@@ -1,0 +1,45 @@
+{
+    "User":[
+        {
+            "_id":1,
+            "firstName":"Anthony",
+            "lastName":"Mccroy",
+            "devices":[
+                {
+                     "_id":1,
+                     "deviceName":"AnthonyIphone",
+                     "deviceType":"Iphone",
+                     "charger_id": 1  
+                }
+            ]
+
+        }
+    ],
+    "Device":[
+        {
+             "_id":1,
+            "deviceName":"AnthonyIphone",
+            "deviceType":"Iphone",
+            "charger_id": 1,
+            "charger":{
+                "_id":1,
+                "chargerType":5,
+                "voltage":1}
+        }
+    ],
+    "Charger":[
+        {
+            "_id":1,
+            "chargerType":5,
+            "voltage":1,
+            "devices":[
+                {
+                     "_id":1,
+                     "deviceName":"AnthonyIphone",
+                     "deviceType":"Iphone",
+                     "charger_id": 1  
+                }
+            ]
+        }
+    ]
+}
