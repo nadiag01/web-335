@@ -1,6 +1,6 @@
 """
-Author: Your Name
-Date: Current Date
+Author: Nadia Gainer
+Date: 6/30/24
 File Name: example.py
 Description: This file demonstrates the use of both file header comments and normal
 level
