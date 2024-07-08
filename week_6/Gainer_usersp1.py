@@ -1,8 +1,8 @@
 """
-Title: pymongo_conn.py
-Author: Professor Krasso
-Date: 27 June 2022
-Desc
+Title: gainer_usersp1.py
+Author: Nadia Gainer
+Date: 7/7/24
+Desc: gainer_usersp1.py file
 """
 
 # Import the MongoClient
