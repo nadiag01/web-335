@@ -1,8 +1,8 @@
 """
-Title: insert_one_ex1.py
-Author: Professor Krasso
+Title: Gainer_usersp2.py
+Author: Nadia Gainer
 Date: 27 June 2022
-Description: Exercise 6.3
+Description: Exercise 7.3
 """
 # Import the MongoClient
 from pymongo import MongoClient
