@@ -1,0 +1,24 @@
+{
+    "Customer":[
+        {
+            "customerId":1,
+            "firstName":"Sarah",
+            "lastName":"Jones"
+
+        }
+    ],
+    "Books":[
+        {
+            "bookId":1,
+            "title":"To Kill a Mockingnird",
+            "author":"Harper Lee",
+            "genre": "Southern Gothic Bildungsroman"
+        }
+    ],
+    "Wishlist":[
+        {
+            "wishlistId":1,
+            "bookId":1
+        }
+    ]
+}
